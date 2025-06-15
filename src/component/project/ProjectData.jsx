@@ -2,14 +2,15 @@ import Book1 from '../../assets/w2.png';
 import Book2 from '../../assets/w3.png';
 import Book3 from '../../assets/w1.png';
 import Book4 from '../../assets/w4.png';
+import Book5 from '../../assets/w5.png';
 
 const ProjectData = [
     {
-    title: "Ecomerce website",
+    title: "youtube",
     description: "Smart reader built using AI tools and React.",
-    image: Book1,
-    tech: ["HTML", "Custom css", "javascript"],
-    link: "https://sana20ullah.github.io/2-ecom-sana-web/",
+    image: Book5,
+    tech: ["HTML", "css","ract","tailwind"],
+    link: "https://sana20ullah.github.io/youtube/",
    },
   {
     title: "Portfolio",
@@ -32,6 +33,14 @@ const ProjectData = [
     tech: ["HTML", "Custom css", "js"],
     link: "https://sana20ullah.github.io/ecomercesana2025/",
   },
+  
+   {
+    title: "Ecomerce website",
+    description: "Smart reader built using AI tools and React.",
+    image: Book1,
+    tech: ["HTML", "Custom css", "javascript"],
+    link: "https://sana20ullah.github.io/2-ecom-sana-web/",
+   },
   
 ];
 
